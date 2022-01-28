@@ -4,6 +4,8 @@ import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
+import LandingSocials from '../components/LandingSocials'
+import Cards from '../pages/landing.js';
 import HomepageFeatures from '../components/HomepageFeatures';
 
 function HomepageHeader() {
@@ -14,12 +16,13 @@ function HomepageHeader() {
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
-          <Link
+          {/* <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
             Docusaurus Tutorial - 5min ⏱️
-          </Link>
+          </Link> */}
         </div>
+        {/* <h2 style= {{marginBottom: 25}}></h2> */}
       </div>
     </header>
   );
@@ -33,7 +36,10 @@ export default function Home() {
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
+        {/* <HomepageFeatures /> */}
+        <Cards/>
+        <h2 style={{display: 'flex', justifyContent: 'center'}}>Join the community</h2>
+        <LandingSocials/>
       </main>
     </Layout>
   );

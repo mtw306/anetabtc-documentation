@@ -56,7 +56,7 @@ const config = {
             label: 'Documentation',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/anetaBTC',
             label: 'GitHub',
             position: 'right',
           },
