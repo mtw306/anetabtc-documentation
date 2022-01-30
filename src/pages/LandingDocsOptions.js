@@ -1,6 +1,6 @@
 import React from 'react';
 import Layout from '@theme/Layout';
-import styles from './docs-landing.css';
+import styles from './LandingDocsOptions.module.css';
 import Link from "@docusaurus/core/lib/client/exports/Link";
 import ExternalArrow from '../../static/img/external-arrow.svg'
 
