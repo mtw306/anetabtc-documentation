@@ -54,6 +54,7 @@ const config = {
             docId: 'intro',
             position: 'left',
             label: 'Documentation',
+            href: '/official-docs-landing/'
           },
           {
             href: 'https://github.com/anetaBTC',
@@ -70,7 +71,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/pages/official-docs-landing/',
               },
             ],
           },

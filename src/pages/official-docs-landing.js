@@ -36,7 +36,10 @@ export default function Home() {
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
+        {/* <HomepageFeatures /> */}
+        <Cards/>
+        <h2 style={{display: 'flex', justifyContent: 'center'}}>Join the community</h2>
+        <LandingSocials/>
       </main>
     </Layout>
   );
