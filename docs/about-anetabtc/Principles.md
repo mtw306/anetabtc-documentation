@@ -5,13 +5,13 @@ sidebar_position: 3
 
 # Core Principles
 
-AnetaBTC is a fully on-chain, decentralized protocol 
+AnetaBTC is a fully on-chain, decentralized protocol that
 allows Bitcoin to be directly wrapped on the Ergo and Cardano blockchains. 
 AnetaBTC enables Bitcoin holders to unlock the value of their assets in a secure and efficient environment to provide yield, 
-without selling any Bitcoin and without any third-party custodian involvement
+without selling any Bitcoin or any third-party custodian involvement.
 
-Mission statement
-We are working to enrich regular people through the most secure and easy to use asset wrapping protocol for Ergo and Cardano.
 
-Vision
-Deliver world class DeFi experiences safely, securely, and maximally decentralized
+Our mission is that we are working to enrich regular people through the most secure and easy to use asset wrapping protocol for Ergo and Cardano.
+
+
+Our vision is to deliver world class DeFi experiences safely, securely, and maximally decentralized
