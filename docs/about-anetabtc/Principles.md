@@ -11,7 +11,7 @@ AnetaBTC enables Bitcoin holders to unlock the value of their assets in a secure
 without selling any Bitcoin or any third-party custodian involvement.
 
 
-Our mission is that we are working to enrich regular people through the most secure and easy to use asset wrapping protocol for Ergo and Cardano.
+Our mission is that we are working to enrich regular people through the most secure and easy to use an asset wrapping protocol for Ergo and Cardano.
 
 
-Our vision is to deliver world class DeFi experiences safely, securely, and maximally decentralized
+Our vision is to deliver world class DeFi experiences safely, securely, and maximally decentralized.
