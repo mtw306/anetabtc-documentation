@@ -15,8 +15,17 @@ const Guides = [
     ),
   },
   {
+    title: 'User Guides',
+    link:  '../docs/user-guides/liso',
+    description: (
+      <>
+        Learn about LISO, our tokenomics, and benefits of the NETA and cNETA tokens.
+      </>
+    ),
+  },
+  {
     title: 'Protocol overview',
-    link: '../docs/protocol-overview',
+    link: '../docs/protocol-overview/introduction',
     description: (
       <>
         Learn about all aspects of our architecture including minting, redeeming, burning, and transferring.
