@@ -1,4 +1,9 @@
-Core Principals
+---
+sidebar_label: 'Principles'
+sidebar_position: 3
+---
+
+# Core Principles
 
 AnetaBTC is a fully on-chain, decentralized protocol 
 allows Bitcoin to be directly wrapped on the Ergo and Cardano blockchains. 

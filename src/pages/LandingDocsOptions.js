@@ -7,7 +7,7 @@ import ExternalArrow from '../../static/img/external-arrow.svg'
 const Guides = [
     {
         title: 'About anetaBTC',
-        link: 'docs/intro',
+        link: 'docs/about-anetabtc',
         description: (
             <>
                 Learn about anetaBTC, an on-chain wrapped protocol on Ergo and Cardano. Learn about our mission and key principles.
@@ -16,7 +16,7 @@ const Guides = [
     },
     {
         title: 'Protocol Overview',
-        link: 'docs/intro',
+        link: 'docs/protocol-overview',
         description: (
             <>
             Dive into the architecture of the protocol. What are wrapped assets, and how do we keep them decentralized on Ergo as opposed to other wrapped BTC models.

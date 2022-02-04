@@ -7,7 +7,7 @@ import ExternalArrow from '../../static/img/external-arrow.svg'
 const Guides = [
   {
     title: 'About anetaBTC',
-    link:  '../docs/intro',
+    link:  '../docs/about-anetabtc/Introduction',
     description: (
       <>
         Learn about anetaBTC, an on-chain wrapped protocol on Ergo and Cardano. Learn about our mission and key principles.
@@ -15,17 +15,8 @@ const Guides = [
     ),
   },
   {
-    title: 'FAQ',
-    link: '../docs/intro',
-    description: (
-      <>
-        Learn about our protocol, tokenomics, LISO, community, and whitepaper.
-      </>
-    ),
-  },
-  {
     title: 'Protocol overview',
-    link: '../docs/intro',
+    link: '../docs/protocol-overview',
     description: (
       <>
         Learn about all aspects of our architecture including minting, redeeming, burning, and transferring.
@@ -48,7 +39,7 @@ function Guide({title, description, link}) {
 
 export default function HomepageGuides() {
   return (
-    <section style = {{marginTop: 25}} className={styles.guides}>
+    <section id = "guide-cards" style = {{marginTop: 25}} className={styles.guides}>
         {Guides.map((props, idx) => (
             <Guide key={idx} {...props} />
         ))}
