@@ -6,10 +6,11 @@ sidebar_position: 3
 Below is the current wBTC implementation controlled by custodian BitGo. These diagrams are referenced from the original wBTC whitepaper, which was developed by our partners, Kyber Network. 
 
 <!-- insert image here -->
+![Alt text](../../static/img/wrapping-assets/wrapping-assets-1.png "Traditional wrapped assets")
 
 wBTC protocol diagram showing the process of minting and burning tokens with a custodian.
 
-<!-- insert image here -->
+![Alt text](../../static/img/wrapping-assets/wrapping-assets-burn.png "Traditional wrapped assets")
 
 Final stage of wBTC reaching the end customer.
 For the wBTC protocol, either minting BTC or confirming the burn of tokens is at the full control of the custodian, which in this case, is BitGo. They are solely responsible for oversight of the locked Bitcoin.
