@@ -38,6 +38,6 @@
 }
 
 .guide:hover {
-    border-color: var(--ifm-tiles-link-hover-color);
+    border-color: #FFD78A;
     color: var(--ifm-font-color-base);
 }

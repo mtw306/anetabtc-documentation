@@ -49,13 +49,13 @@ const config = {
           src: 'img/anetaBTC.png',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'about-anetabtc/Introduction',
-            position: 'left',
-            label: 'Documentation',
-            href: '/official-docs-landing/'
-          },
+          // {
+          //   type: 'doc',
+          //   docId: 'about-anetabtc/Introduction',
+          //   position: 'left',
+          //   label: 'Documentation',
+          //   href: '/official-docs-landing/'
+          // },
           {
             href: 'https://github.com/anetaBTC',
             label: 'GitHub',

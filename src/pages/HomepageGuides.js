@@ -1,6 +1,6 @@
 import React from 'react';
 import clsx from 'clsx';
-import styles from './landing.module.css';
+import styles from './HomepageGuides.module.css';
 import Link from "@docusaurus/core/lib/client/exports/Link";
 import ExternalArrow from '../../static/img/external-arrow.svg'
 
