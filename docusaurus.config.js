@@ -44,7 +44,7 @@ const config = {
     ({
       navbar: {
         title: 'anetaBTC',
-        style: '',
+        style: 'primary',
         logo: {
           alt: 'My Site Logo',
           src: 'img/anetaBTC.png',
