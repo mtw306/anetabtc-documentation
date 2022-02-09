@@ -57,6 +57,20 @@ const config = {
           },
         ],
       },
+    //   colorMode: {
+    //     defaultMode: 'light',
+    //     disableSwitch: false,
+    //     switchConfig: {
+    //       darkIcon: '💃',
+    //       darkIconStyle: {
+    //         marginLeft: '2px',
+    //       },
+    //       lightIcon: '🔥',
+    //       lightIconStyle: {
+    //         marginLeft: '1px',
+    //       },
+    //   },
+    // },
       footer: {
         style: 'dark',
         links: [
