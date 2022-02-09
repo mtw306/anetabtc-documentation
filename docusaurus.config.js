@@ -13,8 +13,8 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/anetaBTC.png',
-  organizationName: 'github.com/anetaBTC', // Usually your GitHub org/user name.
-  projectName: 'anetaBTC', // Usually your repo name.
+  organizationName: 'github.com/anetaBTC',
+  projectName: 'anetaBTC', 
 
   presets: [
     [
@@ -30,7 +30,7 @@ const config = {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/anetaBTC',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -44,18 +44,12 @@ const config = {
     ({
       navbar: {
         title: 'anetaBTC',
+        style: '',
         logo: {
           alt: 'My Site Logo',
           src: 'img/anetaBTC.png',
         },
         items: [
-          // {
-          //   type: 'doc',
-          //   docId: 'about-anetabtc/Introduction',
-          //   position: 'left',
-          //   label: 'Documentation',
-          //   href: '/official-docs-landing/'
-          // },
           {
             href: 'https://github.com/anetaBTC',
             label: 'GitHub',

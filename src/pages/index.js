@@ -8,6 +8,7 @@ import Cards from '../pages/HomepageGuides';
 
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
+  
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
