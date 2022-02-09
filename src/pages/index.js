@@ -11,7 +11,7 @@ function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container" style={{color: "black"}}>
+      <div className="container">
         <h1 className="hero__title">Welcome to anetaBTC Docs</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
