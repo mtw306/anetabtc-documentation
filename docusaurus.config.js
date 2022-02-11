@@ -10,11 +10,11 @@ const config = {
   tagline: 'Wrapped BTC on Ergo & Cardano.',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/anetaBTC.png',
   organizationName: 'github.com/anetaBTC',
-  projectName: 'anetaBTC', 
+  projectName: 'anetaBTC',
 
   presets: [
     [
