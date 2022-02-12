@@ -35,7 +35,12 @@ html[data-theme='light'] footer.footer--dark {
 }
 
 html[data-theme='light'] footer.footer--dark {
-  --ifm-footer-title-color: #FFD78A;
+  --ifm-footer-title-color: #64B6E6;
+  --ifm-footer-link-color: #595959xF
+}
+
+html[data-theme='dark'] footer.footer--dark {
+  --ifm-footer-title-color: #64B6E6;
   --ifm-footer-link-color: #595959xF
 }
 
@@ -75,7 +80,7 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 }
 
 .theme-doc-markdown a {
-  color: #FFD78A;
+  color: #64B6E6;
   text-decoration: none;
 }
 

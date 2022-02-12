@@ -100,7 +100,8 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `anetaBTC is a Singapore-based DAO.`,
+        // ${new Date().getFullYear()} 
       },
       prism: {
         theme: lightCodeTheme,
