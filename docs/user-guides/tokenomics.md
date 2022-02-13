@@ -20,7 +20,7 @@ The total NETA allocation from largest to smallest is explained below:
  * Core Team, Advisors, Angel Investors: 25% (500,000,000 tokens)
  * Aneta Foundation: 5% (100,000,000 tokens)
  
-
+![Tokenomics](../../static/img/tokenomics/tokenomics.png "Tokenomics breakdown")
 
 ## Public Distribution
 
