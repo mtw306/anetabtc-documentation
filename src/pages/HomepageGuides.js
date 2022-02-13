@@ -7,7 +7,7 @@ import ExternalArrow from '../../static/img/external-arrow.svg'
 const Guides = [
   {
     title: 'About anetaBTC',
-    link:  '../docs/about-anetabtc/Introduction',
+    link:  '/docs/about-anetabtc/Introduction',
     description: (
       <>
         Learn about anetaBTC, an on-chain wrapped protocol on Ergo and Cardano. Learn about our mission and key principles.
@@ -16,7 +16,7 @@ const Guides = [
   },
   {
     title: 'User Guides',
-    link:  '../docs/user-guides/liso',
+    link:  '/docs/user-guides/liso',
     description: (
       <>
         Learn about LISO, our tokenomics, and benefits of the NETA and cNETA tokens.
@@ -25,7 +25,7 @@ const Guides = [
   },
   {
     title: 'Protocol overview',
-    link: '../docs/protocol-overview/introduction',
+    link: '/docs/protocol-overview/introduction',
     description: (
       <>
         Learn about all aspects of our architecture including minting, redeeming, burning, and transferring.
