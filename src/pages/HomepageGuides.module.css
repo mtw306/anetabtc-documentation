@@ -1,11 +1,9 @@
 .guides {
     display: grid;
-    justify-content: center;
-    padding: 0 3rem 3.5rem;
-
-    grid-template-rows: 1fr 2fr 1fr;
+    padding: 0 1rem 3rem;
+    grid-template-rows: 1fr 1fr 1fr;
     grid-template-columns: 1fr;
-    gap: 3rem;
+    gap: 1rem;
 }
 
 .guides p {
@@ -40,6 +38,6 @@
 }
 
 .guide:hover {
-    border-color: #FFD78A;
+    border-color: var(--ifm-tiles-link-hover-color);
     color: var(--ifm-font-color-base);
 }
