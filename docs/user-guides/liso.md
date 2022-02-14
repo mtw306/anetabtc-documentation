@@ -1,9 +1,9 @@
 ---
-sidebar_label: 'Liquitity Initial Stake Offering (LISO)'
+sidebar_label: 'Liquidity Initial Stake Offering (LISO)'
 sidebar_position: 1
 ---
 
-# Liquitity Initial Stake Offering (LISO)
+# Liquidity Initial Stake Offering (LISO)
 
 An Initial Stake Pool Offering (ISO), traditionally, is a method to distribute a protocol’s tokens to the community utilizing the Cardano blockchain’s Proof-of-Stake mechanism. This mechanism incentivizes nodes supporting the Cardano blockchain to build out a decentralized network of servers across the globe.
 
