@@ -9,7 +9,7 @@ const config = {
   title: 'anetaBTC',
   tagline: 'Wrapped BTC on Ergo & Cardano.',
   url: 'https://anetabtc.github.io',
-  baseUrl: '/anetabtc-documentation/',
+  baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/anetaBTC.png',
