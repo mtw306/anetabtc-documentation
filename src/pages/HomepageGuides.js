@@ -16,7 +16,7 @@ const Guides = [
   },
   {
     title: 'User Guides',
-    link:  '/docs/user-guides/liso',
+    link:  '/docs/user-guides/Liso/liso-home',
     description: (
       <>
         Learn about LISO, our tokenomics, and benefits of the NETA and cNETA tokens.

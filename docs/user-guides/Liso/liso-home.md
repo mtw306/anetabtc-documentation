@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Liquidity Initial Stake Offering (LISO)'
+sidebar_label: 'LISO Overview'
 sidebar_position: 1
 ---
 
@@ -33,4 +33,4 @@ Delegators to verified NETA stake pools will receive a 3x bonus on any airdrops 
 
 Below is a diagram explaining the flow of the Liquidity ISO.
 
-![Liso](../../static/img/liso/liso.png "LISO Explanation")
+![Liso](../../../static/img/liso/liso.png "LISO Explanation")
