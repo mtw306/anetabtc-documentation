@@ -18,7 +18,6 @@ The anetaBTC LISO has 3 purposes:
 
     3. Establish and grow the NETA Liquidity Fund - a compounding group of assets owned 100% by NETA/cNETA holders
 
-The yield and DEX tokens earned by the NETA Liquidity Fund (from providing liquidity to our DEX partners) will directly benefit all NETA/cNETA holders, supplementing the base value of NETA/cNETA tokens. 
 
 
 
