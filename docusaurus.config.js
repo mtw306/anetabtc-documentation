@@ -97,6 +97,10 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/anetaBTC',
               },
+              {
+                label: 'Website', 
+                href: 'https://anetabtc.io'
+              },
             ],
           },
         ],
