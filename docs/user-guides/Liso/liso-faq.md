@@ -42,30 +42,29 @@ As mining rewards are generated every 5 days by NETA1 and NETA2 stake pools, the
 
 Delegators to NETA1 and NETA2 stake pools will earn a base minimum of 6 cNETA tokens per epoch for each 1,000 ADA they have delegated.
 
-Special giveaway events for long-term NETA1/NETA2 delegators are frequent and substantial, as long-term delegators facilitate the growth of the NETA Liquidity Fund and should be rewarded for doing so.
-
 Active giveaway events for NETA1 and NETA2 delegators:
 
-1. Delegate for 2 months consecutively and be airdropped 500 cNETA for each 1000 ADA delegated. (Active - Deadline for this event will be announced as NETA Pools, hopefully, approach saturation)
+* Next giveaway events will be announced soon.
 
+Past giveaway events for NETA1 and NETA2 delegators:
 
-*Past giveaway events for NETA1 and NETA2 delegators:*
+* Delegate for 2 months consecutively and be airdropped 500 cNETA for each 1000 ADA delegated. (Deadline passed)
 
-Delegate in the first epoch of the Liquidity ISO (epoch 318) and be airdropped 1000 cNETA for each 1000 ADA delegated. (Deadline passed)
-
+* Delegate in the first epoch of the Liquidity ISO (epoch 318) and be airdropped 1000 cNETA for each 1000 ADA delegated. (Deadline passed)
 
 
 
 ### What giveaway events for NETA1 and NETA2 delegators are currently active?
 
-Active giveaway events for NETA1 and NETA2 delegators:
+Next giveaway events will be announced soon.
 
-1. Delegate for 2 months consecutively and be airdropped 500 cNETA for each 1000 ADA delegated. (Active - Deadline for this event will be announced soon)
+Past giveaway events for NETA1 and NETA2 delegators:
 
+* Delegate for 2 months consecutively and be airdropped .5 cNETA for each 1 ADA delegated. (Active - Deadline for this event will be announced soon)
+Past giveaway events for NETA1 and NETA2 delegators:
 
-*Past giveaway events for NETA1 and NETA2 delegators:*
+* Delegate in the first epoch of the Liquidity ISO (epoch 318) and be airdropped 1 cNETA for each 1 ADA delegated. (Deadline passed)
 
-Delegate in the first epoch of the Liquidity ISO (epoch 318) and be airdropped 1000 cNETA for each 1000 ADA delegated. (Deadline passed)
 
 
 ### How do I earn ErgoDEX and Minswap tokens?
