@@ -104,7 +104,7 @@ anetaBTC LISO pools will run until 500 million cNETA is distributed, or 25% of t
 
 ### When does staking to NETA stake pools become available?
 
-NETA1 and NETA2 stake pools are now live and accepting delegations.
+NETA1 and NETA2 stake pools are live and accepting delegations.
 
 
 
