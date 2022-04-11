@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'anetaBTC',
   tagline: 'Wrapped BTC on Ergo & Cardano.',
-  url: 'https://anetabtc.github.io',
+  url: 'https://docs.anetabtc.github.io',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
