@@ -58,11 +58,11 @@ Aneta Angels NFTs are ranked in 5 different rarity tiers. Each rarity tier provi
 
 There are 5 different rarity tiers:
 
-	* Tier 1: Rarity 1–88 → 1% ROS boost per angel
-	* Tier 2: Rarity 89–488 → 0.66% ROS boost per angel
-	* Tier 3: Rarity 489–1,888 → 0.5% ROS boost per angel
-	* Tier 4: Rarity 1,889–4,888 → 0.33% ROS boost per angel
-	* Tier 5: Rarity 4,889–8,888 → 0.25% ROS boost per angel
+* Tier 1: Rarity 1–88 → 1% ROS boost per angel
+* Tier 2: Rarity 89–488 → 0.66% ROS boost per angel
+* Tier 3: Rarity 489–1,888 → 0.5% ROS boost per angel
+* Tier 4: Rarity 1,889–4,888 → 0.33% ROS boost per angel
+* Tier 5: Rarity 4,889–8,888 → 0.25% ROS boost per angel
 
 
 
