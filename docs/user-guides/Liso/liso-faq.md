@@ -40,17 +40,31 @@ As mining rewards are generated every 5 days by NETA1 and NETA2 stake pools, the
 
 ### How much cNETA will I earn if I delegate?
 
-Delegators to NETA1 and NETA2 stake pools will earn a base minimum of 6 cNETA tokens per epoch for each 1,000 ADA they have delegated.
+Delegators to NETA1 and NETA2 will receive a fixed return on staking of at least 6–9%, calculated and adjusted each epoch based on the cNETA/ADA conversion rate.
 
-Active giveaway events for NETA1 and NETA2 delegators:
+This is an increase compared to if a delegator was earning the typical Cardano rewards of about 4% APR.
 
-* Next giveaway events will be announced soon.
+With this model, all delegators will earn at least a 6% return and potentially earn over double the return of Cardano’s typical return on staking, depending on which Aneta Angels NFTs are held.
 
-Past giveaway events for NETA1 and NETA2 delegators:
+The amount of cNETA distributed each epoch will be adjusted to ensure delegators receive at least a 6% return on staking.
 
-* Delegate for 2 months consecutively and be airdropped 500 cNETA for each 1000 ADA delegated. (Deadline passed)
 
-* Delegate in the first epoch of the Liquidity ISO (epoch 318) and be airdropped 1000 cNETA for each 1000 ADA delegated. (Deadline passed)
+
+
+###How do Aneta Angels Affect my cNETA Rewards?
+
+Aneta Angels NFTs are ranked in 5 different rarity tiers. Each rarity tier provides a different percentage boost to the annual return on staking. If multiple angels are held, the boosts are summed. The final percentage boost is calculated from the top 3 highest-tiered angels that a wallet holds, calculated based on angels held on a per epoch basis.
+
+
+There are 5 different rarity tiers:
+
+	*Tier 1: Rarity 1–88 → 1% ROS boost per angel
+	*Tier 2: Rarity 89–488 → 0.66% ROS boost per angel
+	*Tier 3: Rarity 489–1,888 → 0.5% ROS boost per angel
+	*Tier 4: Rarity 1,889–4,888 → 0.33% ROS boost per angel
+	*Tier 5: Rarity 4,889–8,888 → 0.25% ROS boost per angel
+
+
 
 
 
@@ -67,13 +81,6 @@ Past giveaway events for NETA1 and NETA2 delegators:
 
 
 
-### How do I earn ErgoDEX and Minswap tokens?
-
-The NETA Liquidity Fund will be used to provide liquidity to our DEX partners: ErgoDEX, Minswap, and KyberSwap.
-
-In addition to generating yield on its assets, the Fund will earn ErgoDEX/Minswap platform tokens from early user campaigns.
-
-All holders of NETA/cNETA, including non-delegators, will receive these DEX token in various airdrops. Delegators of NETA1 and NETA2 stake pools will be airdropped 3x the amount of DEX tokens as NETA/cNETA holders who are not delegating, proportional to their ownership interest.
 
 ### What are the benefits of holding NETA/cNETA?
 
