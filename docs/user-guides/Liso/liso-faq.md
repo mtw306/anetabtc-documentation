@@ -51,7 +51,7 @@ The amount of cNETA distributed each epoch will be adjusted to ensure delegators
 
 
 
-###How do Aneta Angels Affect my cNETA Rewards?
+### How do Aneta Angels Affect my cNETA Rewards?
 
 Aneta Angels NFTs are ranked in 5 different rarity tiers. Each rarity tier provides a different percentage boost to the annual return on staking. If multiple angels are held, the boosts are summed. The final percentage boost is calculated from the top 3 highest-tiered angels that a wallet holds, calculated based on angels held on a per epoch basis.
 
