@@ -67,21 +67,6 @@ There are 5 different rarity tiers:
 
 
 
-
-### What giveaway events for NETA1 and NETA2 delegators are currently active?
-
-Next giveaway events will be announced soon.
-
-Past giveaway events for NETA1 and NETA2 delegators:
-
-* Delegate for 2 months consecutively and be airdropped .5 cNETA for each 1 ADA delegated. (Active - Deadline for this event will be announced soon)
-Past giveaway events for NETA1 and NETA2 delegators:
-
-* Delegate in the first epoch of the Liquidity ISO (epoch 318) and be airdropped 1 cNETA for each 1 ADA delegated. (Deadline passed)
-
-
-
-
 ### What are the benefits of holding NETA/cNETA?
 
 Holders of NETA and cNETA collectively have the following benefits:
