@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Security anetaBTC'
+sidebar_label: 'Security'
 sidebar_position: 2
 ---
 
