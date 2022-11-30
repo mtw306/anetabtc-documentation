@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Rolling Out anetaBTC'
+sidebar_label: 'Security anetaBTC'
 sidebar_position: 2
 ---
 
